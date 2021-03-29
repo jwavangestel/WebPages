@@ -15,6 +15,9 @@
 		3DA065B2260D231600EB742D /* OerleWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA065B1260D231600EB742D /* OerleWebView.swift */; };
 		3DA79D07260D41DA00E93D16 /* VHDWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA79D06260D41D900E93D16 /* VHDWebView.swift */; };
 		3DA79D0A260D420400E93D16 /* ZeelstWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA79D09260D420400E93D16 /* ZeelstWebView.swift */; };
+		3DAE136D26125D7200CCCA1D /* overOns.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAE136C26125D7200CCCA1D /* overOns.swift */; };
+		3DAE137026125D8800CCCA1D /* English.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAE136F26125D8800CCCA1D /* English.swift */; };
+		3DAE137326125F6600CCCA1D /* Themas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAE137226125F6600CCCA1D /* Themas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		3DA065B1260D231600EB742D /* OerleWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OerleWebView.swift; sourceTree = "<group>"; };
 		3DA79D06260D41D900E93D16 /* VHDWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VHDWebView.swift; sourceTree = "<group>"; };
 		3DA79D09260D420400E93D16 /* ZeelstWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeelstWebView.swift; sourceTree = "<group>"; };
+		3DAE136C26125D7200CCCA1D /* overOns.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = overOns.swift; sourceTree = "<group>"; };
+		3DAE136F26125D8800CCCA1D /* English.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = English.swift; sourceTree = "<group>"; };
+		3DAE137226125F6600CCCA1D /* Themas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Themas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +75,9 @@
 				3DA065B1260D231600EB742D /* OerleWebView.swift */,
 				3DA79D06260D41D900E93D16 /* VHDWebView.swift */,
 				3DA79D09260D420400E93D16 /* ZeelstWebView.swift */,
+				3DAE136C26125D7200CCCA1D /* overOns.swift */,
+				3DAE136F26125D8800CCCA1D /* English.swift */,
+				3DAE137226125F6600CCCA1D /* Themas.swift */,
 			);
 			path = WebPages;
 			sourceTree = "<group>";
@@ -152,10 +161,13 @@
 			files = (
 				3DA79D0A260D420400E93D16 /* ZeelstWebView.swift in Sources */,
 				3D5AF570260CCB2D00B77CD2 /* ContentView.swift in Sources */,
+				3DAE137326125F6600CCCA1D /* Themas.swift in Sources */,
+				3DAE137026125D8800CCCA1D /* English.swift in Sources */,
 				3DA065B2260D231600EB742D /* OerleWebView.swift in Sources */,
 				3DA79D07260D41DA00E93D16 /* VHDWebView.swift in Sources */,
 				3D5AF57E260D082500B77CD2 /* MVHWebView.swift in Sources */,
 				3D5AF56E260CCB2D00B77CD2 /* WebPagesApp.swift in Sources */,
+				3DAE136D26125D7200CCCA1D /* overOns.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
